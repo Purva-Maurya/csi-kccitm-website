@@ -4,7 +4,7 @@
 
 A student-led technical community at **KCC Institute of Technology & Management, Greater Noida**, dedicated to creating opportunities for students to **learn, build, innovate and connect**.
 
-🌐 **Live Website:** [csi-kccitm.netlify.app](https://csi-kccitm2026b.netlify.app/)
+🌐 **Live Website:** [csi-kccitm.netlify.app](https://csi-kccitm2026b.netlify.app)
 
 ---
 
